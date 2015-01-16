@@ -1,6 +1,6 @@
 # Advanced-Selforganization
 This project was made as part of the advanced selforganization course i took while studying my exchange year in Amsterdam.
-..........................................................................................................................
+
 The work was done with colaboration of a coleague from the economic sector who actually defined the model, 
 while my part of the project was to develop this model. I chose working in Matlab for the implementation.
 High prices on the real estate market make the flats not affordable for many people. 
