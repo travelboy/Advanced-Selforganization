@@ -1,8 +1,8 @@
 # Advanced-Selforganization
 This project was made as part of the advanced selforganization course i took while studying my exchange year in Amsterdam.
-
 The work was done with colaboration of a coleague from the economic sector who actually defined the model, 
 while my part of the project was to develop this model. I chose working in Matlab for the implementation.
+
 High prices on the real estate market make the flats not affordable for many people. 
 Thus, financial companies create new products dedicated to people with weak credit history. And because many
 of the risky or "subprime" loans were repackaged into mortgage-backed securities, the problem
